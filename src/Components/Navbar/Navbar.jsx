@@ -1,5 +1,5 @@
 import './Navbar.css';
-import navLogo from '../../assets/cover2.png';
+import navLogo from '/blog.png';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
